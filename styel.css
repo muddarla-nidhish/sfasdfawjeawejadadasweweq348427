@@ -1,0 +1,13 @@
+#note{
+    background-color:white;
+    color:black;
+    font-size: 18px;
+}
+#heading{
+    font-size: 25px;
+}
+canvas{
+    border:5px dotted rgb(158, 218, 255);
+    border-radius:20px;
+    box-shadow:9px 9px 9px rgb(152, 152, 255); 
+}
